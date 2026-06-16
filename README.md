@@ -27,8 +27,8 @@ Provides a high-level summary of:
 * Prorata Target
 * Achievement %
 * Total Target
-* NCR 
-•	Premium Product %
+* NCR
+* Premium Product %
 
 ---
 
