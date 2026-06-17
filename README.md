@@ -62,7 +62,6 @@ Provides:
 * Region-wise NCR
 * Plus %
 * PP %
-* AW %
 * Sales Achievement Comparison
 
 ---
