@@ -41,7 +41,7 @@ Analyzes:
 * Effective Dealers
 * Effective Retailers
 * PP Dealers & Retailers
-* AW Dealers & Retailers
+* Plus Dealers & Retailers
 * Zero Dealers Sales
 
 ---
@@ -78,9 +78,6 @@ Explores:
 ---
 ### Daily Sales Dashboard
 ![Daily Sales Dashboard](Daily%20Sales%20Dashboard.png)
-
-### Daily Sales Dashboard
-![Download PBIX File](Daily%20sales%20Dashboard.pbix)
 
 ## Key Insights
 
