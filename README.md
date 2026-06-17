@@ -1,4 +1,4 @@
-# Daily Sales Performance Dashboard
+# Daily Sales Dashboard
 
 ## Project Overview
 This Power BI dashboard was developed to monitor daily sales performance, target achievement, dealer network productivity, and product penetration across zones, regions, and territories. The solution provides real-time visibility into sales KPIs and helps management track progress against business targets.
