@@ -80,7 +80,7 @@ Explores:
 ![Daily Sales Dashboard](Daily%20Sales%20Dashboard.png)
 
 ### Daily Sales Dashboard
-![Daily Sales Dashboard](Daily%20sales%20Dashboard.pbix)
+![Download PBIX File](Daily%20sales%20Dashboard.pbix)
 
 ## Key Insights
 
